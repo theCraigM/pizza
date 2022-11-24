@@ -1,2 +1,1 @@
 # pizza
-first Thinkful project
